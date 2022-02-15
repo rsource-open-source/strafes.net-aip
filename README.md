@@ -1,2 +1,2 @@
-# strafes-net-api-proposal
-Proposal ideas and structures for the StrafesNET API. Contributions and reviews promoted (Discussions Tab).
+# strafes.net aip
+API Improvement Proposals (AIP) for the StrafesNET API. [Discussions Tab](https://github.com/rsource-open-source/strafes.net-aip/discussions).
